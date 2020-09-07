@@ -1,0 +1,502 @@
+1         9.2       1994      The Shawshank Redemption
+
+2         9.2       1972      The Godfather
+
+3         9.0       1974      The Godfather: Part II
+
+4         8.9       2008      The Dark Knight
+
+5         8.9       1993      Schindler's List
+
+6         8.9       1957      12 Angry Men
+
+7         8.9       1994      Pulp Fiction
+
+8         8.9       2003      The Lord of the Rings: The Return of the King
+
+9         8.9       1966      Il buono, il brutto, il cattivo
+
+10        8.8       1999      Fight Club
+
+11        8.8       2001      The Lord of the Rings: The Fellowship of the Ring
+
+12        8.7       1980      Star Wars: Episode V - The Empire Strikes Back
+
+13        8.7       1994      Forrest Gump
+
+14        8.7       2010      Inception 
+
+15        8.7       2002      The Lord of the Rings: The Two Towers
+
+16        8.7       1975      One Flew Over the Cuckoo's Nest
+
+17        8.7       1990      Goodfellas
+
+18        8.7       1999      The Matrix
+
+19        8.6       1954      Shichinin no samurai
+
+20        8.6       1977      Star Wars 
+
+21        8.6       2002      City of God
+
+22        8.6       1995      Se7en     
+
+23        8.6       1991      The Silence of the Lambs
+
+24        8.6       1946      It's a Wonderful Life
+
+25        8.6       1995      The Usual Suspects
+
+26        8.6       1997      La vita è bella
+
+27        8.6       1994      Léon     
+
+28        8.5       1968      Once Upon a Time in the West
+
+29        8.5       2001      Sen to Chihiro no kamikakushi
+
+30        8.5       1998      Saving Private Ryan
+
+31        8.5       1998      American History X
+
+32        8.5       1942      Casablanca
+
+33        8.5       2014      Interstellar
+
+34        8.5       1960      Psycho    
+
+35        8.5       1931      City Lights
+
+36        8.5       1981      Raiders of the Lost Ark
+
+37        8.5       1936      Modern Times
+
+38        8.5       2011      The Intouchables
+
+39        8.5       1999      The Green Mile
+
+40        8.5       1954      Rear Window
+
+41        8.5       1991      Terminator 2: Judgment Day
+
+42        8.5       2002      The Pianist
+
+43        8.5       2006      The Departed
+
+44        8.5       1985      Back to the Future
+
+45        8.5       2014      Whiplash  
+
+46        8.5       2000      Gladiator 
+
+47        8.5       2000      Memento   
+
+48        8.5       1979      Apocalypse Now
+
+49        8.5       2006      The Prestige
+
+50        8.4       1994      The Lion King
+
+51        8.4       1964      Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+
+52        8.4       1950      Sunset Blvd.
+
+53        8.4       1979      Alien     
+
+54        8.4       1940      The Great Dictator
+
+55        8.4       2006      The Lives of Others
+
+56        8.4       1988      Nuovo Cinema Paradiso
+
+57        8.4       1957      Paths of Glory
+
+58        8.4       2012      Django Unchained
+
+59        8.4       1980      The Shining
+
+60        8.4       1988      Hotaru no haka
+
+61        8.4       2008      WALL·E   
+
+62        8.4       2012      The Dark Knight Rises
+
+63        8.4       1999      American Beauty
+
+64        8.4       1986      Aliens    
+
+65        8.4       1997      Mononoke-hime
+
+66        8.4       2003      Oldeuboi  
+
+67        8.4       1941      Citizen Kane
+
+68        8.4       1984      Once Upon a Time in America
+
+69        8.3       1981      Das Boot  
+
+70        8.3       1959      North by Northwest
+
+71        8.3       1958      Vertigo   
+
+72        8.3       1957      Witness for the Prosecution
+
+73        8.3       1983      Star Wars: Episode VI - Return of the Jedi
+
+74        8.3       1931      M         
+
+75        8.3       1992      Reservoir Dogs
+
+76        8.3       1995      Braveheart
+
+77        8.3       2001      Amélie   
+
+78        8.3       2000      Requiem for a Dream
+
+79        8.3       1971      A Clockwork Orange
+
+80        8.3       1976      Taxi Driver
+
+81        8.3       1944      Double Indemnity
+
+82        8.3       1962      Lawrence of Arabia
+
+83        8.3       2010      Toy Story 3
+
+84        8.3       1962      To Kill a Mockingbird
+
+85        8.3       2004      Eternal Sunshine of the Spotless Mind
+
+86        8.3       1984      Amadeus   
+
+87        8.3       1987      Full Metal Jacket
+
+88        8.3       1973      The Sting 
+
+89        8.3       1968      2001: A Space Odyssey
+
+90        8.3       1948      Ladri di biciclette
+
+91        8.3       1952      Singin' in the Rain
+
+92        8.3       1995      Toy Story 
+
+93        8.3       2000      Snatch    
+
+94        8.3       2009      Inglourious Basterds
+
+95        8.3       1975      Monty Python and the Holy Grail
+
+96        8.3       1921      The Kid   
+
+97        8.3       1997      L.A. Confidential
+
+98        8.3       1965      Per qualche dollaro in più
+
+99        8.3       1950      Rashômon 
+
+100       8.3       1960      The Apartment
+
+101       8.3       1983      Scarface  
+
+102       8.3       1989      Indiana Jones and the Last Crusade
+
+103       8.3       2011      Jodaeiye Nader az Simin
+
+104       8.2       2009      3 Idiots  
+
+105       8.2       1927      Metropolis
+
+106       8.2       1950      All About Eve
+
+107       8.2       2012      Jagten    
+
+108       8.2       1961      Yôjinbô 
+
+109       8.2       2005      Batman Begins
+
+110       8.2       1997      Good Will Hunting
+
+111       8.2       1948      The Treasure of the Sierra Madre
+
+112       8.2       1959      Some Like It Hot
+
+113       8.2       2009      Up        
+
+114       8.2       1992      Unforgiven
+
+115       8.2       1949      The Third Man
+
+116       8.2       1997      Bacheha-Ye aseman
+
+117       8.2       1980      Raging Bull
+
+118       8.2       2004      Der Untergang
+
+119       8.2       1988      Die Hard  
+
+120       8.2       2015      Inside Out
+
+121       8.2       1963      The Great Escape
+
+122       8.2       1974      Chinatown 
+
+123       8.2       1995      Heat      
+
+124       8.2       1928      La passion de Jeanne d'Arc
+
+125       8.2       2006      Pan's Labyrinth
+
+126       8.2       2015      Room      
+
+127       8.2       1954      On the Waterfront
+
+128       8.2       1988      Tonari no Totoro
+
+129       8.2       1952      Ikiru     
+
+130       8.2       1985      Ran       
+
+131       8.2       1925      The Gold Rush
+
+132       8.2       1939      Mr. Smith Goes to Washington
+
+133       8.2       1957      The Bridge on the River Kwai
+
+134       8.2       2009      El secreto de sus ojos
+
+135       8.2       1982      Blade Runner
+
+136       8.2       1957      Det sjunde inseglet
+
+137       8.2       1998      Lock, Stock and Two Smoking Barrels
+
+138       8.2       2004      Hauru no ugoku shiro
+
+139       8.2       1927      Sunrise: A Song of Two Humans
+
+140       8.2       1995      Casino    
+
+141       8.2       1957      Smultronstället
+
+142       8.2       1926      The General
+
+143       8.2       1980      The Elephant Man
+
+144       8.2       1961      Judgment at Nuremberg
+
+145       8.2       2011      Warrior   
+
+146       8.2       2001      A Beautiful Mind
+
+147       8.2       2013      The Wolf of Wall Street
+
+148       8.1       2005      V for Vendetta
+
+149       8.1       2015      Star Wars: Episode VII - The Force Awakens
+
+150       8.1       1953      Tôkyô monogatari
+
+151       8.1       2010      Incendies 
+
+152       8.1       2008      Gran Torino
+
+153       8.1       1998      The Big Lebowski
+
+154       8.1       1978      The Deer Hunter
+
+155       8.1       1996      Trainspotting
+
+156       8.1       1954      Dial M for Murder
+
+157       8.1       1996      Fargo     
+
+158       8.1       1939      Gone with the Wind
+
+159       8.1       1940      Rebecca   
+
+160       8.1       1967      Cool Hand Luke
+
+161       8.1       2010      How to Train Your Dragon
+
+162       8.1       2003      Finding Nemo
+
+163       8.1       1976      The Message
+
+164       8.1       1999      The Sixth Sense
+
+165       8.1       1982      The Thing 
+
+166       8.1       2007      No Country for Old Men
+
+167       8.1       1985      Idi i smotri
+
+168       8.1       2007      Into the Wild
+
+169       8.1       2009      Mary and Max
+
+170       8.1       2014      Gone Girl 
+
+171       8.1       2003      Kill Bill: Vol. 1
+
+172       8.1       1934      It Happened One Night
+
+173       8.1       2016      Captain America: Civil War
+
+174       8.1       1979      Life of Brian
+
+175       8.1       2007      There Will Be Blood
+
+176       8.1       2013      Rush      
+
+177       8.1       1957      Le notti di Cabiria
+
+178       8.1       2004      Hotel Rwanda
+
+179       8.1       1986      Platoon   
+
+180       8.1       1941      The Maltese Falcon
+
+181       8.1       1953      Le salaire de la peur
+
+182       8.1       1976      Network   
+
+183       8.1       2015      Spotlight 
+
+184       8.1       2015      Mad Max: Fury Road
+
+185       8.1       1969      Butch Cassidy and the Sundance Kid
+
+186       8.1       2010      Shutter Island
+
+187       8.1       1959      Les quatre cents coups
+
+188       8.1       2016      Zootopia  
+
+189       8.1       1986      Stand by Me
+
+190       8.1       1993      In the Name of the Father
+
+191       8.1       2013      12 Years a Slave
+
+192       8.1       1966      Persona   
+
+193       8.1       2014      The Grand Budapest Hotel
+
+194       8.1       2000      Amores perros
+
+195       8.1       2004      Million Dollar Baby
+
+196       8.1       2014      Relatos salvajes
+
+197       8.1       1959      Ben-Hur   
+
+198       8.1       1987      The Princess Bride
+
+199       8.1       1958      Touch of Evil
+
+200       8.1       2009      Hachi: A Dog's Tale
+
+201       8.1       1993      Jurassic Park
+
+202       8.1       1984      Kaze no tani no Naushika
+
+203       8.1       1940      The Grapes of Wrath
+
+204       8.1       1977      Annie Hall
+
+205       8.1       1979      Stalker   
+
+206       8.0       2003      Salinui chueok
+
+207       8.0       1995      Before Sunrise
+
+208       8.0       2007      The Bourne Ultimatum
+
+209       8.0       1998      The Truman Show
+
+210       8.0       1982      Gandhi    
+
+211       8.0       1955      Les diaboliques
+
+212       8.0       2001      Donnie Darko
+
+213       8.0       1976      Rocky     
+
+214       8.0       2016      Deadpool  
+
+215       8.0       1963      8½       
+
+216       8.0       2001      Monsters, Inc.
+
+217       8.0       2011      Harry Potter and the Deathly Hallows: Part 2
+
+218       8.0       1939      The Wizard of Oz
+
+219       8.0       1984      The Terminator
+
+220       8.0       1995      Twelve Monkeys
+
+221       8.0       2015      The Revenant
+
+222       8.0       1993      Groundhog Day
+
+223       8.0       1946      The Best Years of Our Lives
+
+224       8.0       2002      Mou gaan dou
+
+225       8.0       1951      Strangers on a Train
+
+226       8.0       1975      Jaws      
+
+227       8.0       2005      Sin City  
+
+228       8.0       1995      La haine  
+
+229       8.0       1949      Kind Hearts and Coronets
+
+230       8.0       2013      Prisoners 
+
+231       8.0       1975      Barry Lyndon
+
+232       8.0       1966      La battaglia di Algeri
+
+233       8.0       2002      Catch Me If You Can
+
+234       8.0       1975      Dog Day Afternoon
+
+235       8.0       2015      The Martian
+
+236       8.0       2008      Yip Man   
+
+237       8.0       2014      The Imitation Game
+
+238       8.0       2003      Pirates of the Caribbean: The Curse of the Black Pearl
+
+239       8.0       2011      The Help  
+
+240       8.0       1982      Fanny och Alexander
+
+241       8.0       1964      Per un pugno di dollari
+
+242       8.0       1986      Tenkû no shiro Rapyuta
+
+243       8.0       2014      Guardians of the Galaxy
+
+244       8.0       1953      Roman Holiday
+
+245       8.0       2012      Gangs of Wasseypur
+
+246       8.0       2012      The Avengers
+
+247       8.0       2010      The King's Speech
+
+248       8.0       1957      Kumonosu-jô
+
+249       8.0       1952      High Noon 
+
+250       8.0       2001      Lagaan: Once Upon a Time in India
+
+
+Date: 2016-08-16 23:00:15.423241
