@@ -8,3 +8,8 @@ By using configure file "config.py" you will be able to block/unblock some featu
 + Python 2.7+
 + Beautiful Soap
 + html5lib
+
+## Crontab settings
+```javascript
+0 16 * * * cd "/home/jony/Developer/python/imdb_top_250_tracker" && ./auto_script.sh
+```
