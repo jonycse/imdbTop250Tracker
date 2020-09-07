@@ -9,7 +9,20 @@ By using configure file "config.py" you will be able to block/unblock some featu
 + Beautiful Soap
 + html5lib
 
-## Crontab settings
+## [Crontab][1] settings
 ```javascript
 0 16 * * * cd "/home/jony/Developer/python/imdb_top_250_tracker" && ./auto_script.sh
 ```
+
+### Edit
++ crontab -e
+
+### Remove 
++ crontab -r
+
+### List
++ crontab -l
+
+
+[1]: https://www.computerhope.com/unix/ucrontab.htm
+
